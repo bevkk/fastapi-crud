@@ -1,6 +1,3 @@
-
-# fastapi-crud
-
 # FastAPI MongoDB CRUD
 
 This project provides an example of developing a simple CRUD (Create, Read, Update, Delete) application using FastAPI and MongoDB. This application uses MongoDB for database operations and handles HTTP requests with FastAPI.
